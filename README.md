@@ -46,11 +46,11 @@ The core analytical challenge addressed in this project is: **How can historical
 ## 7. Dashboard or Project Preview
 
 ### Lagos: Daily High Temperature vs. Humidity
-![Lagos Temperature and Humidity Preview](Daily_High_Temperature_and_Humanity.png)
+![](Daliy_High_Temperature_and_Humdity_in_lagos.png)
 *Figure 1: Grouped bar chart comparing daily high temperatures (°C, orange) against humidity percentages (%, blue) from Monday to Friday in Lagos.*
 
 ### Tallahassee: Daily Rainfall Distribution
-![Tallahassee Rainfall Preview](Daily_Rainfall_in_Tallahassee.png)
+![](Daliy_Rainfall_In_Tallahassee.png)
 *Figure 2: Time-series line plot illustrating daily rainfall fluctuations (mm) over the observation timeline in Tallahassee.*
 
 ---
